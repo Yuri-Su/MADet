@@ -1,2 +1,2 @@
 # MADet
-a multi-scale attention mechanism for anchor-free detector
+Code will be uploaded soon
