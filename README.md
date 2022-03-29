@@ -1,2 +1,2 @@
 # MADet
-Code will be uploaded soon
+Codes will be released soon.
